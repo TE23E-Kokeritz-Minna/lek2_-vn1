@@ -1,0 +1,39 @@
+#sid2{
+    color: aqua;
+    background-color: #1212ff;
+}
+
+h1{
+    color: #4aa897;
+    background-color:#fffceb;
+    text-align: right;
+}
+
+body{
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+    display: flex;
+    flex-direction: column;
+}
+
+ul{
+    background-color: #410045; 
+    color: #ffe261;
+}
+
+a{
+    color: #ffe261 ;
+}
+
+a:hover{
+    color: chartreuse;
+    background-color: darkgoldenrod;
+}
+a:active{
+    color: cornflowerblue;
+    background-color: crimson;
+}
+
+#bid1{
+    height: 400px;
+    width: 400px;
+}
